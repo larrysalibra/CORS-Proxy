@@ -25,7 +25,7 @@ To access another domain, use the domain name (including port) as the first fold
 
 Access https://example.com:3000/sign_in with the following url:
 
-- http://localhost:1337/localhost:3000/sign_in
+- http://localhost:1337/example.com:3000/sign_in
 
 ## License
 
